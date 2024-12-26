@@ -1,0 +1,70 @@
+Privacy Policy
+
+Effective Date: December 20th, 2024
+
+Renderless Games (referred to as "we," "our," or "us") respects your privacy and is committed to protecting the personal and sensitive user data collected through the Lua IDE app for Android ("the App"). This Privacy Policy explains how we collect, use, share, and protect your information and outlines your rights concerning your data. By using the App, you agree to the terms of this Privacy Policy.
+
+1. Data We Access, Collect, Use, and Share
+
+Personal and Sensitive User Data
+
+The App may access, collect, or use the following types of personal and sensitive data:
+
+Device Information: Information about your device, such as model, operating system, and unique device identifiers.
+
+File Access: The App may access files on your device, specifically for saving, opening, and editing Lua scripts. This access is limited to files selected by you.
+
+Error Logs: Data related to app crashes or errors, which may include limited technical details about your device and app usage.
+
+How We Use Data
+
+To enable the core functionality of the App (e.g., opening and editing Lua scripts).
+
+To improve app performance, fix bugs, and enhance the user experience.
+
+To communicate updates or changes to the App, if necessary.
+
+Data Sharing
+
+We do not sell, rent, or share your personal or sensitive data with third-party entities, except in the following scenarios:
+
+Service Providers: We may share technical data with trusted third-party service providers who assist in error tracking and analytics.
+
+Legal Obligations: If required by law or to comply with legal processes.
+
+2. Secure Data Handling Procedures
+
+We implement industry-standard security measures to protect your personal and sensitive user data, including:
+
+Encryption: Data stored locally or transmitted by the App is encrypted.
+
+Access Control: Only authorized personnel have access to any data we manage.
+
+Regular Audits: Periodic reviews of our security measures to ensure compliance with best practices.
+
+Despite our efforts, no system is completely secure, and we cannot guarantee absolute security.
+
+3. Data Retention and Deletion Policy
+
+Retention
+
+We retain personal and sensitive data for as long as necessary to fulfill the purposes outlined in this Privacy Policy or as required by law.
+
+Deletion
+
+Users can delete data by uninstalling the App from their device, which removes all locally stored data.
+
+If you have shared error logs or other data with us, you can contact us at [Insert Contact Email] to request deletion.
+
+4. Contact Information
+
+If you have questions or concerns about this Privacy Policy or our data handling practices, please contact us at:
+
+Renderless Games Email: renderlessgames@gmail.com
+
+5. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be effective when we post the revised policy in the App. We encourage you to review this Privacy Policy periodically to stay informed about our practices.
+
+This Privacy Policy aligns with the requirements outlined in the Google Play listing and complies with relevant privacy laws and guidelines.
+
